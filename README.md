@@ -21,10 +21,10 @@ Check out [API LIVE DEMO](https://hive-techwear-back-end.herokuapp.com/) here!!
 
 ## How to Install
 
-1. Git Clone
+1. Git Clone 
 
 ```
-git clone 
+git clone https://github.com/Foot-Commerce/Foot-Commerce-Techis.git
 ```
 
 2. Backend setting
