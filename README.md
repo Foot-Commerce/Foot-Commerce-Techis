@@ -1,7 +1,7 @@
-# techis-wd-Hive-Techwear
+# Foot-Commerce
 
 ```
-Hive-Techwear project, with a frontend built in React & Redux and a backend built in Django API.
+Foot-Commerce project, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ## Live Demo
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://hive-techwear-back-end.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-git clone https://github.com/Tech-i-s/techis-wd-Hive-Techwear.git
+git clone 
 ```
 
 2. Backend setting
